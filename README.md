@@ -5,6 +5,7 @@ Provide an in-depth analysis of UFO sightings by allowing users to filter for mu
 
 ## Results 
 Upon entering the website, the users will see not only the title and the article relates to UFO sightings but also the table of UFOs sightings.
+
 ![Capture](https://user-images.githubusercontent.com/84931545/132121362-00dffa46-b7fe-4ce7-8c8a-23475f3db078.PNG)
 
 ### Unfiltered
