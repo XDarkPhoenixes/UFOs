@@ -5,13 +5,14 @@ Provide an in-depth analysis of UFO sightings by allowing users to filter for mu
 
 ## Results 
 Upon entering the website, the users will see not only the title and the article relates to UFO sightings but also the table of UFOs sightings.
-
 ![Capture](https://user-images.githubusercontent.com/84931545/132121362-00dffa46-b7fe-4ce7-8c8a-23475f3db078.PNG)
 
+### Unfiltered
 ![Unfiltered](https://user-images.githubusercontent.com/84931545/132121375-b4ae7f0f-0eb5-40d9-92dd-a4f9f85a710c.PNG)
 
 If users desire to search for particular events base on different criteria, they can simply write in any of the Date, City, State, Country, or Shape filter boxes in the Filter Search section located on the left of the table. Users can choose to apply single or multiple filters. The corresponding events after filtering will be displayed on the table base on the user input. Filters can be reseted by pressing the 'UFO Sightings' on the very top of the webpage.
 
+### Filtered example
 ![filtered](https://user-images.githubusercontent.com/84931545/132121387-e462f437-3680-4f7d-bb1e-eb94f8981531.PNG)
 
 
